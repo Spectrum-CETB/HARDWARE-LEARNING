@@ -13,6 +13,7 @@ for example:-
 |--------------| ----------- | ----------- |
 |Ashish kumar panda|Arduino programming|not started|
 |swastik khuntia|Arduino programming|completed|
+|Susil Kumar Behera|Arduino Programming|not started
 
 
 * you just have to create one row in your .md file.
