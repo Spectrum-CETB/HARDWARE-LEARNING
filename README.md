@@ -8,7 +8,8 @@
 ### step-2
 * update the below table according to your repository
 
-| Header | Title |
+| ------ | ------ |
+
 | Abraar Ahmad Khan | Arduino programming | not started |
 
 * you just have to create one row in your .md file.
