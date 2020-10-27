@@ -11,8 +11,7 @@
 for example:-
 | Name | Task | Task status|
 |--------------| ----------- | ----------- |
-|Ashish kumar panda|Arduino programming|not started|
-|swastik khuntia|Arduino programming|completed|
+|Sudipta Pradhan|Arduino programming|not started|
 
 
 * you just have to create one row in your .md file.
