@@ -8,8 +8,8 @@
 ### step-2
 * update the below table according to your repository
 
-| ------ | ------ |
-
+| Name | Course | Status |
+| :---- | ------ | ----:|
 | Abraar Ahmad Khan | Arduino programming | not started |
 
 * you just have to create one row in your .md file.
