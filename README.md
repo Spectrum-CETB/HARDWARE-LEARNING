@@ -10,7 +10,7 @@
 
 | Name | Task | Task Status |
 | :---- | ------ | ----:|
-| Abraar Ahmad Khan | Arduino programming | not started |
+| Abraar Ahmad Khan | Arduino programming | In progress |
 
 * you just have to create one row in your .md file.
 
