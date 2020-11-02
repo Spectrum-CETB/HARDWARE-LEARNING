@@ -9,7 +9,11 @@
 * update the below table according to your repository
 
 
-|Susil Kumar Behera|Arduino Programming|in progress|
+| Name | Task | Task status|
+|--------------| ----------- | ----------- |	
+|Ashish kumar panda|Arduino programming|not started|	
+|swastik khuntia|Arduino programming|completed|	
+|Susil Kumar Behera|Arduino Programming|not started
 
 
 * you just have to create one row in your .md file.
