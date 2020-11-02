@@ -14,7 +14,7 @@ for example:-
 |Ashish kumar panda|Arduino programming|not started|
 |swastik khuntia|Arduino programming|completed|
 |Surya Narayan Jena|Arduino programming|Ongoing Progress|
-|Surya Narayan Jena|Task 1|PR Submitted|
+|Surya Narayan Jena|Task 1|Completed|
 
 * you just have to create one row in your .md file.
 
