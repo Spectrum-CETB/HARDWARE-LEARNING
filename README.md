@@ -9,7 +9,7 @@
 * update the below table according to your repository
 
 
-|Susil Kumar Behera|Arduino Programming|in progress
+Susil Kumar Behera|Arduino Programming|in progress
 
 
 * you just have to create one row in your .md file.
