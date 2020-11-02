@@ -11,8 +11,6 @@
 
 | Name | Task | Task status|
 |--------------| ----------- | ----------- |	
-|Ashish kumar panda|Arduino programming|not started|	
-|swastik khuntia|Arduino programming|completed|	
 |Susil Kumar Behera|Arduino Programming|not started
 
 
